@@ -26,7 +26,7 @@ The project encompasses the following significant aspects and functionalities:
 
 To begin exploring the "Graphical Combinatorial Network Editor" project, follow these steps:
 
-1. **Clone the Repository:** Clone this repository to your local development environment using the following command: `https://github.com/DanijelaMilanovic/MiT-MakeItTrue.git`
+1. **Clone the Repository:** Clone this repository to your local development environment using the following command: `https://github.com/stefanjokic99/MiT-MakeItTrue.git`
 
 2. **Run the Application:** To run the application, ensure you have a Java Development Kit (JDK) installed. Use the provided instructions in the repository to execute the application.
 
